@@ -1,0 +1,6 @@
+streamlit
+streamlit-webrtc
+opencv-python
+easyocr
+av
+streamlit-webrtc
